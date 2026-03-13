@@ -1,0 +1,11 @@
+# د ټیلیګرام API کتابخانه
+telethon>=1.34.0
+
+# د ښایسته جدولونو لپاره
+prettytable>=3.9.0
+
+# د رنګونو لپاره (Windows/Linux/Mac)
+colorama>=0.4.6
+
+# د env متغیرونو لپاره (اختیاري)
+python-dotenv>=1.0.0
